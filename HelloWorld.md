@@ -1,1 +1,1 @@
-## This is a markup language
+## This is a markdown language
